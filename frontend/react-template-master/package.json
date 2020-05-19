@@ -17,6 +17,6 @@
     "react-dom": "^16.0.0",
     "react-router-dom": "^5.1.2",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.3"
+    "webpack-dev-server": "^3.1.11"
   }
 }
